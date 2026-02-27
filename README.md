@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I´m Rebeca Jaimes
 
 <!--
+My name is
 **rebecajafa-gh/rebecajafa-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
