@@ -1,17 +1,14 @@
 ## Hi there 👋 I´m Rebeca Jaimes
 
-<!--
-My name is
 **rebecajafa-gh/rebecajafa-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in genetics🧬medicine💊football🏈and cooking🥫
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently in my social service year at LIIGH.
+- 🌱 I’m currently learning bioinformatics.
+- 👯 I’m looking to collaborate on research or ivetigation projects around the country.
+  
+- 💬 Ask me about helathy habits and flag football development.
+- 📫 How to reach me: rebecajafa@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I enjoy discovering new hobbies.
+--
